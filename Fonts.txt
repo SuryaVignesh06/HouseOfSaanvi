@@ -1,0 +1,13 @@
+Fonts used in this design:
+
+Font: Abril Fatface
+Author: TypeTogether
+Url: http://www.fontsquirrel.com/fonts/abril-fatface
+
+Font: Fira Sans
+Author: Mozilla
+Url: http://www.fontsquirrel.com/fonts/fira-sans
+
+Font: Reey
+Author: Koen van der Bliek
+Url: https://www.fontsquirrel.com/fonts/reey
